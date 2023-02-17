@@ -3,3 +3,5 @@ articulos
 fotos
 footer
 comentarios 
+pie de pagina
+contacto
